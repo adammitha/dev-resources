@@ -1,1 +1,2 @@
-https://chakra-ui.com/
+- https://chakra-ui.com/
+- https://react-query.tanstack.com/
