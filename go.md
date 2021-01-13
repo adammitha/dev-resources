@@ -27,4 +27,6 @@ Once you are accustomed to the language and syntax, you can read this series of 
 
 Finally, https://github.com/golang/go/wiki#learning-more-about-go will give a list of even more resources to learn Go
 
-https://github.com/avelino/awesome-go
+## Other resources
+- https://github.com/avelino/awesome-go
+- https://dave.cheney.net/
