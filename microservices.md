@@ -1,2 +1,3 @@
 - https://microservices.io/
 - gokit.io
+- Building Microservices - Sam Newman
