@@ -31,3 +31,4 @@ Finally, https://github.com/golang/go/wiki#learning-more-about-go will give a li
 - https://github.com/avelino/awesome-go
 - https://dave.cheney.net/
 - https://www.gobeyond.dev/
+- https://lets-go.alexedwards.net
