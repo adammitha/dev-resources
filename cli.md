@@ -1,1 +1,3 @@
 - https://clig.dev/
+- https://github.com/charmbracelet/bubbletea
+- https://github.com/willmcgugan/rich
