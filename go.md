@@ -33,3 +33,4 @@ Finally, https://github.com/golang/go/wiki#learning-more-about-go will give a li
 - https://www.gobeyond.dev/
 - https://lets-go.alexedwards.net
 - https://quii.gitbook.io/learn-go-with-tests/
+- https://encore.dev/guide/go.mod
