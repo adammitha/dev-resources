@@ -2,3 +2,5 @@
 - https://lwn.net/Articles/276782/
 - http://craftinginterpreters.com/contents.html
 - https://researcher.watson.ibm.com/researcher/files/us-bacon/Bacon04Unified.pdf
+- Engineering a Compiler
+- Modern Compiler Implementation in ML
