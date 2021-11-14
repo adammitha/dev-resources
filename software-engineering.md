@@ -1,0 +1,2 @@
+- https://reviewable.io/
+- https://dangitgit.com/

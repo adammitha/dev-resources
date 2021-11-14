@@ -1,0 +1,1 @@
+- https://github.com/smellslikekeenspirit/an-askreddit-list-of-compsci-books
