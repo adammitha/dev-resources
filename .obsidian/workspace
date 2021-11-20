@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "2ad8dca925902b5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e713bfe6221e90a4",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7fa520699e5b46c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d394885d47912940",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e418a0189fe9ddfb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5fe4cd427a7e986",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4dbfa5dff7d32ff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d168956f2c301e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b19ee0541ff3054",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e713bfe6221e90a4",
+  "lastOpenFiles": [
+    "build-tools.md",
+    "cli.md",
+    "docker.md",
+    "distributed-systems.md",
+    "design.md",
+    "compensation.md",
+    "computer-science.md",
+    "data-science.md",
+    "programming-languages-compilers.md",
+    "README.md"
+  ]
+}
