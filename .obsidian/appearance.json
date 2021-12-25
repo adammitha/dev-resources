@@ -1,4 +1,7 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Obsidian Nord"
+  "cssTheme": "Obsidian gruvbox",
+  "baseFontSizeAction": true,
+  "theme": "obsidian",
+  "translucency": true
 }

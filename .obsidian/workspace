@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "4de8d33f4e2301f2",
+    "id": "5c1b0bb86aa06a7c",
     "type": "split",
     "children": [
       {
-        "id": "1e80ee607cc4db6d",
+        "id": "71061cd34466a787",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "build-tools.md",
+            "file": "infrastructure.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "build-tools.md",
+                "file": "infrastructure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1e80ee607cc4db6d",
+  "active": "71061cd34466a787",
   "lastOpenFiles": [
+    "infrastructure.md",
+    "programming-languages-compilers.md",
+    "frontend.md",
+    "distributed-systems.md",
     "build-tools.md",
     "cli.md",
     "docker.md",
-    "distributed-systems.md",
     "design.md",
     "compensation.md",
-    "computer-science.md",
-    "data-science.md",
-    "programming-languages-compilers.md",
-    "README.md"
+    "computer-science.md"
   ]
 }
