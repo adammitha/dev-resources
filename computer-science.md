@@ -1,1 +1,2 @@
 - https://github.com/smellslikekeenspirit/an-askreddit-list-of-compsci-books
+- http://infolab.stanford.edu/~ullman/focs.html
