@@ -1,1 +1,2 @@
 - https://www.linuxfromscratch.org/lfs/view/stable/
+- https://0xax.gitbooks.io/linux-insides/content/
