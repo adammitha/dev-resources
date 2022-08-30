@@ -1,1 +1,2 @@
-https://www.dynamodbguide.com
+- https://www.dynamodbguide.com
+- https://15445.courses.cs.cmu.edu/fall2022/
