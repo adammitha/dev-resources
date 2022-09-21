@@ -1,2 +1,3 @@
 - https://ubc-dsci.github.io/introduction-to-datascience/
 - https://www.r-graph-gallery.com/index.html
+- https://sqlite-utils.datasette.io/en/stable/index.html
