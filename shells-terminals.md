@@ -1,1 +1,2 @@
 - https://starship.rs
+- https://zellij.dev
