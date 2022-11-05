@@ -1,0 +1,1 @@
+- https://blog.adamchalmers.com/kubernetes-problems/
