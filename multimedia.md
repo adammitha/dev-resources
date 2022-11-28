@@ -1,1 +1,2 @@
 - https://github.com/leandromoreira/ffmpeg-libav-tutorial
+- https://img.ly/blog/ultimate-guide-to-ffmpeg/
