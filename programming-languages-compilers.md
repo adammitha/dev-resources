@@ -1,4 +1,4 @@
-- [Programming Languages: Application and Interpretation](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/plai-2007-04-26.pdf)
+- [Programming Languages: Application and Interpretation](https://www.plai.org)
 - https://lwn.net/Articles/276782/
 - http://craftinginterpreters.com/contents.html
 - https://researcher.watson.ibm.com/researcher/files/us-bacon/Bacon04Unified.pdf
