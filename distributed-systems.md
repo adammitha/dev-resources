@@ -3,3 +3,4 @@
 - https://pdos.csail.mit.edu/6.824/
 - https://capnproto.org
 - https://martinfowler.com/articles/patterns-of-distributed-systems/
+- https://nats.io
