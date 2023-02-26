@@ -1,3 +1,4 @@
 - https://github.com/smellslikekeenspirit/an-askreddit-list-of-compsci-books
 - http://infolab.stanford.edu/~ullman/focs.html
 - https://teachyourselfcs.com
+- https://dcic-world.org/2023-02-21/index.html
