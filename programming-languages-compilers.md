@@ -4,3 +4,4 @@
 - https://researcher.watson.ibm.com/researcher/files/us-bacon/Bacon04Unified.pdf
 - Engineering a Compiler
 - Modern Compiler Implementation in ML
+- https://iucompilercourse.github.io/IU-P423-P523-E313-E513-Fall-2020/
