@@ -1,2 +1,3 @@
 - https://www.dynamodbguide.com
 - https://15445.courses.cs.cmu.edu/fall2022/
+- https://www.reddit.com/r/databasedevelopment/comments/unj8d1/getting_started_with_database_development/
