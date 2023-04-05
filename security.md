@@ -1,1 +1,2 @@
-https://tryhackme.com/
+- https://tryhackme.com/
+- https://pwn.college
