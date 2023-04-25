@@ -1,2 +1,3 @@
 - https://taskfile.dev/#/
 - [Dagger](https://dagger.io/)
+- [entr(1)](https://eradman.com/entrproject/)
