@@ -1,2 +1,3 @@
 - https://starship.rs
 - https://zellij.dev
+- https://atuin.sh
