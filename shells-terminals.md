@@ -1,3 +1,4 @@
 - https://starship.rs
 - https://zellij.dev
 - https://atuin.sh
+- https://github.com/dylanaraps/neofetch
