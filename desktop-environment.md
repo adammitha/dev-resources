@@ -1,0 +1,3 @@
+- [Rectangle](https://rectangleapp.com)
+- [LinearMouse](https://linearmouse.app)
+- [Karabiner Elements](https://karabiner-elements.pqrs.org)
