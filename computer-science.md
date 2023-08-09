@@ -2,3 +2,4 @@
 - http://infolab.stanford.edu/~ullman/focs.html
 - https://teachyourselfcs.com
 - https://dcic-world.org/2023-02-21/index.html
+- https://matklad.github.io/2023/08/06/fantastic-learning-resources.html
