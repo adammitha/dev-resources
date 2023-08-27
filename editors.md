@@ -1,2 +1,3 @@
 - [LunarVim](https://www.lunarvim.org)
 - [LazyVim](https://www.lazyvim.org)
+- [Kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
