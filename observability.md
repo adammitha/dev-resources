@@ -1,1 +1,2 @@
 - https://vector.dev
+- https://thume.ca/2023/12/02/tracing-methods/
