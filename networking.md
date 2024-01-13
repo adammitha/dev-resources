@@ -1,2 +1,3 @@
 - http://intronetworks.cs.luc.edu/current2/html/
 - http://beej.us/guide/bgnet/
+- http://www.wangafu.net/~nickm/libevent-book/TOC.html
