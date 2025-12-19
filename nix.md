@@ -1,2 +1,3 @@
 - [NixOS and Flakes](https://nixos-and-flakes.thiscute.world/introduction/)
 - [Zero to Nix](https://zero-to-nix.com/)
+- [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/)
